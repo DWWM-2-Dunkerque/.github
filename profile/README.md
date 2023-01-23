@@ -26,14 +26,14 @@ Promo Développeur.se Web et Web Mobile - Dunkerque
 | Developers | GitHub | REAC |
 | :----: | :----: | :----: |
 |  |  |  |
-| Dimitri | ![🔗](https://github.com/TDxDimitri){:target="_blank"} |  |
-| Jérôme | ![🔗](https://github.com/GuidtJ){:target="_blank"} |  |
-| ThibaultC | ![🔗](https://github.com/Nightct){:target="_blank"} |  |
-| ThibaultD | ![🔗](https://github.com/Fujimatos){:target="_blank"} |  |
+| Dimitri | <a href="https://github.com/TDxDimitri" target="_blank">🔗</a> |  |
+| Jérôme | <a href="https://github.com/GuidtJ" target="_blank">🔗</a> |  |
+| ThibaultC | <a href="https://github.com/Nightct" target="_blank">🔗</a> |  |
+| ThibaultD | <a href="https://github.com/Fujimatos" target="_blank">🔗</a> |  |
 | Ferrand |  |  |
-| Théo | ![🔗](https://github.com/FeverTheo){:target="_blank"} |  |
-| Rémi | ![🔗](https://github.com/Remi59430){:target="_blank"} |  |
-| LoganH | ![🔗](https://github.com/Lolodezil){:target="_blank"} |  |
+| Théo | <a href="https://github.com/FeverTheo" target="_blank">🔗</a> |  |
+| Rémi | <a href="https://github.com/Remi59430" target="_blank">🔗</a> |  |
+| LoganH | <a href="https://github.com/Lolodezil" target="_blank">🔗</a> |  |
 
 ## Briefs
 
