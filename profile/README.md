@@ -38,8 +38,9 @@ Promo Développeur.se Web et Web Mobile - Dunkerque
 
 ## Briefs
 
-- [s'approprier le REAC](https://github.com/DWWM-2-Dunkerque/reac)
+- [S'approprier le REAC](https://github.com/DWWM-2-Dunkerque/reac)
 - [Tangram](https://github.com/DWWM-2-Dunkerque/tangram)
+- [About-me](https://github.com/DWWM-2-Dunkerque/about-me)
 
 ## Authors
 
