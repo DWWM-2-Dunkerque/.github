@@ -23,18 +23,18 @@ Promo Développeur.se Web et Web Mobile - Dunkerque
 
 ## Members
 
-| Developers | GitHub | REAC | Tangram |
-| :----: | :----: | :----: | :----: |
-|  |  |  |  |
-| Dimitri | <a href="https://github.com/TDxDimitri" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-td" target="_blank">🔗</a> |
-| Jérôme | <a href="https://github.com/GuidtJ" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-gj" target="_blank">🔗</a> |
-| Thibault | <a href="https://github.com/Nightct" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-ct" target="_blank">🔗</a> |
-| Thibaut | <a href="https://github.com/Fujimatos" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-dt" target="_blank">🔗</a> |
-| Ferrand | <a href="https://github.com/ferrand333" target="_blank">🔗</a> |  |  |
-| Théo | <a href="https://github.com/FeverTheo" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-ft" target="_blank">🔗</a> |
-| Rémi | <a href="https://github.com/Remi59430" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-pr" target="_blank">🔗</a> |
-| LoganH | <a href="https://github.com/Lolodezil" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-hl" target="_blank">🔗</a> |
-| LoganW | <a href="https://github.com/Loganwdx" target="_blank">🔗</a> |  |  |
+| Developers | GitHub | REAC | Tangram | About-me |
+| :----: | :----: | :----: | :----: | :----: |
+|  |  |  |  |  |
+| Dimitri | <a href="https://github.com/TDxDimitri" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-td" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-td" target="_blank">🔗</a> |
+| Jérôme | <a href="https://github.com/GuidtJ" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-gj" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-gj" target="_blank">🔗</a> |
+| Thibault | <a href="https://github.com/Nightct" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-ct" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-ct" target="_blank">🔗</a> |
+| Thibaut | <a href="https://github.com/Fujimatos" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-dt" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-dt" target="_blank">🔗</a> |
+| Ferrand | <a href="https://github.com/ferrand333" target="_blank">🔗</a> |  |  |  |
+| Théo | <a href="https://github.com/FeverTheo" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-ft" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-ft" target="_blank">🔗</a> |
+| Rémi | <a href="https://github.com/Remi59430" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-pr" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-pr" target="_blank">🔗</a> |
+| LoganH | <a href="https://github.com/Lolodezil" target="_blank">🔗</a> |  | <a href="https://github.com/DWWM-2-Dunkerque/tangram-hl" target="_blank">🔗</a> | <a href="https://github.com/DWWM-2-Dunkerque/about-me-hl" target="_blank">🔗</a> |
+| LoganW | <a href="https://github.com/Loganwdx" target="_blank">🔗</a> |  |  |  |
 
 ## Briefs
 
