@@ -12,14 +12,14 @@ Promo Développeur.se Web et Web Mobile - Dunkerque
 ![img_html](./profile/img/html.svg)
 &nbsp;&nbsp;
 ![img_css](./profile/img/css.svg)
-<!-- &nbsp;&nbsp;
-![img_bootstrap](./profile/img/bootstrap.svg) -->
 &nbsp;&nbsp;
 ![img_php](./profile/img/php.svg)
-<!-- &nbsp;&nbsp;
-![img_wordpress](./profile/img/wordpress.svg) -->
 &nbsp;&nbsp;
 ![img_docker](./profile/img/docker.svg)
+<!-- &nbsp;&nbsp;
+![img_bootstrap](./profile/img/bootstrap.svg) -->
+<!-- &nbsp;&nbsp;
+![img_wordpress](./profile/img/wordpress.svg) -->
 
 ## Members
 
