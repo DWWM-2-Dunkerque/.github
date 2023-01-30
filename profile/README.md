@@ -1,4 +1,4 @@
-# DWWM#2 Dunkerque
+# DWWM#6 Dunkerque
 
 Promo Développeur.se Web et Web Mobile - Dunkerque
 
@@ -16,8 +16,8 @@ Promo Développeur.se Web et Web Mobile - Dunkerque
 ![img_php](./profile/img/php.svg)
 &nbsp;&nbsp;
 ![img_docker](./profile/img/docker.svg)
-<!-- &nbsp;&nbsp;
-![img_bootstrap](./profile/img/bootstrap.svg) -->
+&nbsp;&nbsp;
+![img_bootstrap](./profile/img/bootstrap.svg)
 <!-- &nbsp;&nbsp;
 ![img_wordpress](./profile/img/wordpress.svg) -->
 
