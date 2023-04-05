@@ -54,6 +54,7 @@ Promo Développeur.se Web et Web Mobile - Dunkerque
 - [CRUD-marvel](https://github.com/DWWM-2-Dunkerque/crud-marvel)
 - [Car-fleet-manager](https://github.com/DWWM-2-Dunkerque/car-fleet-manager)
 - [Battle-game](https://github.com/DWWM-2-Dunkerque/battle-game)
+- [Wordpress](https://github.com/DWWM-2-Dunkerque/WordPress)
 
 ## Authors
 
